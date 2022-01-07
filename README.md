@@ -1,4 +1,5 @@
 # merge-solo
-My name  
+This  
 is  
-Brandon Pinos   
+some  
+text  
