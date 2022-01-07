@@ -1,5 +1,5 @@
 # merge-solo
-This  
+That  
 is  
 good  
 text  
